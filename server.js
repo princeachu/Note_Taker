@@ -30,15 +30,14 @@ app.post("/api/notes", function (req, res) {
 });
 app.delete("/api/notes/:id", function (req, res) {
   let noteId = req.params.id;
-  // console.log(noteId);
-  let removeId;
-  console.log(removeId);
+  let removeI;
   for (let i = 0; i < db.length; i++) {
     if (db[i].id === noteId) {
-      removeId = i;
+      removeI = i;
     }
   }
-  db.splice(removeId, 1);
+  db.splice(removeI, 1);
+  res.json(db);
 });
 
 app.listen(PORT, function () {
