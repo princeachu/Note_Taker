@@ -22,21 +22,11 @@ app.get("/notes", function (req, res) {
   res.sendFile(path.join(__dirname, "notes.html"));
 });
 app.get("/api/notes", function (req, res) {
-  // Should read the`db.json` file and
-  // return all saved notes as JSON.
-  console.log(db);
   res.json(db);
 });
 app.post("/api/notes", function (req, res) {
-  // Should receive a new note to save on the request body
-  console.log(req.body);
-
-  //  add it to the`db.json` file, and
-  // fs? but first push?
-  // then return the new note to the client
-  // temp
-  // db.push(req.body);
-  // res.json(db);
+  db.push(req.body);
+  res.json(db);
 });
 // app.delete("/api/notes/:id", function (req, res) {
 //   // Should receive a query parameter containing the id of a note to delete.
