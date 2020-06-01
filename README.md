@@ -22,7 +22,7 @@ You first need to install the proper dependencies listed in the package.json fil
 
 ## Usage
 
-Enter npm server.js in the directory terminal then go to localhost:3000 to use the app. [!Example](https://drive.google.com/file/d/1uVTnash_cs_pFORZy0Pxz7AOAcdFV9MJ/view)
+Enter npm server.js in the directory terminal then go to localhost:3000 to use the app. [!App link](https://note-taker-prince.herokuapp.com/)
 
 ## Technologies
 
