@@ -17,8 +17,8 @@ Note taker is a full stack application that can be used to post, save, and delet
 
 ## Installation
 
-To install the neccassary dependencies run the following commands in the terminal:
-You first need to install the proper dependencies listed in the package.json file by enetering npm install in the directory terminal. Then to run the app enter npm server.js.
+You first need to install the proper dependencies listed in the package.json file
+To install the neccassary dependencies run the following commands in the directory terminal: `npm install`
 
 ## Usage
 
