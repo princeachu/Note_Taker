@@ -4,7 +4,7 @@
 
 ## Project Description
 
-An application that can be used to write, save, and delete notes. The application uses an express backend to save and retrieve note data from a JSON file.
+Note taker is a full stack application that can be used to post, save, and delete notes. The application's backend is managed through node.js and the server is set up using express. The frontend display created using html and bootstrap css. The users notes are posted, saved and deleted through JQuery, AJAX and JSON.
 
 ## Table of Contents
 
