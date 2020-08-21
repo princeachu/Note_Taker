@@ -27,7 +27,7 @@ To run the app after you've installed the dependencies enter: `npm server.js`
 
 In the directory terminal then go to localhost:3000 in your browser to use the app.
 
-[!App link](https://note-taker-prince.herokuapp.com/)
+[App link](https://note-taker-prince.herokuapp.com/)
 
 ## Technologies
 
