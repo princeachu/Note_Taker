@@ -18,11 +18,16 @@ Note taker is a full stack application that can be used to post, save, and delet
 ## Installation
 
 You first need to install the proper dependencies listed in the package.json file
+
 To install the neccassary dependencies run the following commands in the directory terminal: `npm install`
 
 ## Usage
 
-Enter npm server.js in the directory terminal then go to localhost:3000 to use the app. [!App link](https://note-taker-prince.herokuapp.com/)
+To run the app after you've installed the dependencies enter: `npm server.js`
+
+In the directory terminal then go to localhost:3000 in your browser to use the app.
+
+[!App link](https://note-taker-prince.herokuapp.com/)
 
 ## Technologies
 
