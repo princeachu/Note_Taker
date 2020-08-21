@@ -27,6 +27,7 @@ To install the neccassary dependencies run the following commands in the directo
 To run the app after you've installed the dependencies enter: `npm server.js`
 
 In the directory terminal then go to localhost:3000 in your browser to use the app.
+![Screenshots](https://user-images.githubusercontent.com/63522610/90927903-ecd91900-e3c3-11ea-9bc6-ae8ffb00dd6a.png)
 
 [App link](https://note-taker-prince.herokuapp.com/)
 
