@@ -37,8 +37,9 @@ In the directory terminal then go to localhost:3000 in your browser to use the a
 2. Express
 3. JSON
 4. AJAX
-5. Bootstrap
+5. Bootstrap CSS
 6. JQuery
+7. HTML
 
 ## Tests
 
